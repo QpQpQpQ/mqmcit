@@ -3,7 +3,7 @@ public class friends {
 
 	public static void main(String[] args) {
 
-		String[] friends = { "Dan", "Banana", "Cindy","Christina"};
+		String[] friends = { "Robert", "Banana", "Cindy","Christina"};
 		for(int i = 0; i < friends.length; i++) {
 			System.out.println(friends[i]);	
 		}
