@@ -6,6 +6,7 @@ public class friends {
 
 		String[] friends = { "Robert", "Grape", "Cindy","Christina"};
 
+
 		for(int i = 0; i < friends.length; i++) {
 			System.out.println(friends[i]);	
 		}
