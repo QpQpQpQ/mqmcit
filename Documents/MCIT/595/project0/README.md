@@ -1,0 +1,1 @@
+I hope to learn more about the computing system, which includes operating systems and networked systems. Furthermore, I want to strengthen my C program language skills and lay a solid fundamental for my future jobs.
